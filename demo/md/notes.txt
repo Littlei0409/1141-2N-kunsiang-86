@@ -5,7 +5,7 @@ sass --watch scss:css
 
 git commit -m "" 
 
-git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-12-20"
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2025-09-17"
 
 git init
 建立新的本地端 Repository。
