@@ -7,6 +7,17 @@ git commit -m ""
 
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2025-09-17"
 
+1. Create React App (old frontend development)
+
+npx create-react-app@latest w01-ceate-react-app
+2. Vite (new frontend development)
+
+npm create vite@latest name -- --template react
+
+3. Next.js (new for full-stack development)
+
+npx create-next-app@latest
+
 git init
 建立新的本地端 Repository。
 git clone [Repository URL]
