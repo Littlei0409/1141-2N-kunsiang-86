@@ -1,0 +1,315 @@
+[00:00:01.425] Server  LOG      ✓ Ready in 1006ms
+[00:00:20.317] Browser LOG     data [{"id":1,"name":"john"},{"id":2,"name":"peter"},{"id":3,"name":"susan"},{"id":4,"name":"anna"}]
+[00:00:20.317] Browser LOG     [2;38;2;124;124;124m%s[0m data [{"id":1,"name":"john"},{"id":2,"name":"peter"},{"id":3,"name":"susan"},{"id":4,"name":"anna"}]
+[01:50:12.876] Server  LOG      ✓ Compiled in 193ms
+[01:55:15.527] Server  LOG      ✓ Compiled in 50ms
+[01:55:30.831] Server  LOG      ✓ Compiled in 68ms
+[03:51:51.034] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.041] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.045] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.049] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.058] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.060] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.063] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.066] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.071] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.073] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.076] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.079] Server  ERROR    ⨯ ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:51:51.081] Server  LOG      ✓ Compiled in 177ms
+[03:51:52.121] Browser ERROR   ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx:7:1
+Module not found: Can't resolve '../../_assets/wrapper/Blog_86'
+   5 | import blogData_86 from '../../_assets/data/blogData.json';
+   6 | import Blog2_86 from '../../_components/Blog2_86';
+>  7 | import Wrapper from '../../_assets/wrapper/Blog_86';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import Alert_86 from '../../_components/Alert_86';
+   9 |
+  10 | const BlogLocalJsonPage2_86 = () => {
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component Browser]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Client Component SSR]
+    ./src/app/(root)/demo/blog_86/localjson2_86/page.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found

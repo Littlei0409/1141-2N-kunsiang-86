@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/demo/shop_28/node/[category]",
+      "regex": "^/demo/shop_28/node/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory"
+      },
+      "namedRegex": "^/demo/shop_28/node/(?<nxtPcategory>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/demo/shop_28/supa/[category]",
+      "regex": "^/demo/shop_28/supa/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory"
+      },
+      "namedRegex": "^/demo/shop_28/supa/(?<nxtPcategory>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/demo/shop_28/node",
+      "regex": "^/demo/shop_28/node(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/demo/shop_28/node(?:/)?$"
+    },
+    {
+      "page": "/demo/shop_28/supa",
+      "regex": "^/demo/shop_28/supa(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/demo/shop_28/supa(?:/)?$"
+    },
+    {
+      "page": "/exams/midterm/p1_28",
+      "regex": "^/exams/midterm/p1_28(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/exams/midterm/p1_28(?:/)?$"
+    },
+    {
+      "page": "/exams/midterm/p2_28",
+      "regex": "^/exams/midterm/p2_28(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/exams/midterm/p2_28(?:/)?$"
+    },
+    {
+      "page": "/tutorials/context/1_propdrilling_28",
+      "regex": "^/tutorials/context/1_propdrilling_28(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tutorials/context/1_propdrilling_28(?:/)?$"
+    },
+    {
+      "page": "/tutorials/context/2_context_people_28",
+      "regex": "^/tutorials/context/2_context_people_28(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tutorials/context/2_context_people_28(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

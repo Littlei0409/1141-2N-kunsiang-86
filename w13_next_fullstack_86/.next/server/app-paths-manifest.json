@@ -1,0 +1,13 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/tutorials/context/1_propdrilling_28/page": "app/(root)/tutorials/context/1_propdrilling_28/page.js",
+  "/(root)/tutorials/context/2_context_people_28/page": "app/(root)/tutorials/context/2_context_people_28/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/demo/shop_28/node/[category]/page": "app/demo/shop_28/node/[category]/page.js",
+  "/demo/shop_28/node/page": "app/demo/shop_28/node/page.js",
+  "/demo/shop_28/supa/[category]/page": "app/demo/shop_28/supa/[category]/page.js",
+  "/demo/shop_28/supa/page": "app/demo/shop_28/supa/page.js",
+  "/exams/midterm/p1_28/page": "app/exams/midterm/p1_28/page.js",
+  "/exams/midterm/p2_28/page": "app/exams/midterm/p2_28/page.js"
+}

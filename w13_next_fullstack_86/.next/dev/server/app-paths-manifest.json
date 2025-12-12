@@ -1,0 +1,7 @@
+{
+  "/(root)/demo/blog_86/localjson2_86/page": "app/(root)/demo/blog_86/localjson2_86/page.js",
+  "/(root)/demo/blog_86/localjson_86/page": "app/(root)/demo/blog_86/localjson_86/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/tutorials/context/2_context_people_86/page": "app/(root)/tutorials/context/2_context_people_86/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
