@@ -1,0 +1,4 @@
+[00:00:02.031] Server  LOG      ✓ Ready in 1359ms
+[00:00:54.890] Server  LOG      ○ Compiling /demo/blog_86/localjson2_context_86 ...
+[00:07:14.033] Browser ERROR   You provided a `checked` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultChecked`. Otherwise, set either `onChange` or `readOnly`.
+[00:07:17.083] Browser ERROR   You provided a `checked` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultChecked`. Otherwise, set either `onChange` or `readOnly`.
